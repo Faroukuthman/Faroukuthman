@@ -5,7 +5,7 @@
 <h3 align="center">Cybersecurity Professional 🔐</h3>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/faroukuthman"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="www.linkedin.com/in/farouk-uthman"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ---
