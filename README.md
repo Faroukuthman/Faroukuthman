@@ -54,11 +54,6 @@
 
 ---
 
-### <h2>🤖 Coding Projects:</h2>
-- **[Web Development Portfolio](https://trevinoportfolio2024.netlify.app)**
----
-### <h2>📺 YouTube Videos:</h2>
-  
 ---
 <h2>🧰 Tools:</h2>
 
@@ -100,10 +95,10 @@
 ---
 
 <h2>📜 Certifications:</h2>
-- CISSP: Expected June 2025 <br>- CompTIA Security+: Expected May 2025 <br>- CompTIA Network+: Expected April 2025
+- CompTIA Security+: March 2025
 
 <h2>🤳 Connect with Me:</h2>
-<a href="https://www.linkedin.com/in/trevinoparker"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/farouk-uthman"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="LinkedIn" /></a>
 <!--
 **Faroukuthman/Faroukuthman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
