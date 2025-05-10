@@ -16,7 +16,7 @@
 
 ### 🟣 PURPLE TEAM 🟣
 #### 🎯 Full SIEM
-- **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/trevinoparker7/Cloud-Soc)** *(Live Traffic)*
+- **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/Faroukuthman/Azure-SOC)** *(Live Traffic)*
 - **[Why KQL Maps Are Essential for CEOs and Non-Tech People](https://github.com/TrevinoParker7/KQL-Map-Why-KQL-Maps-Are-Essential-for-CEOs-and-Non-Tech-People)**
 - **[Setting up Splunk SIEM; Attacking and remediating it](https://github.com/trevinoparker7/Splunk-SIEM)** *(Live Traffic)*  
 
