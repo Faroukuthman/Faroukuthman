@@ -18,7 +18,6 @@
 #### 🎯 Full SIEM
 - **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/Faroukuthman/Azure-SOC)** *(Live Traffic)*
   
-- **[Setting up Splunk SIEM; Attacking and remediating it](https://github.com/trevinoparker7/Splunk-SIEM)** *(Live Traffic)*  
 
 ---
 
@@ -33,7 +32,6 @@
 - Project)**
 
 ###   IT Projects
-- **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/trevinoparker7/AD-Lab)**
 
 ---
 
