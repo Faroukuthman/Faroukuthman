@@ -76,7 +76,7 @@
 ---
 
 <h2>📜 Certifications:</h2>
-- CompTIA Security+: March 2025
+- CompTIA Security+: Feb 2025
 
 <h2>🤳 Connect with Me:</h2>
 <a href="https://www.linkedin.com/in/farouk-uthman"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="LinkedIn" /></a>
