@@ -14,7 +14,6 @@
 
 <h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
 
-### 🟣 PURPLE TEAM 🟣
 #### 🎯 Full SIEM
 - **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/Faroukuthman/Azure-SOC)** *(Live Traffic)*
   
