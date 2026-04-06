@@ -12,9 +12,11 @@
 
 🔍 Passionate about solving complex cybersecurity challenges with hands-on experience in SIEM implementations, vulnerability management, and threat detection. Explore my projects to see how I’ve enhanced security operations and processes!
 
-<h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-#### 🎯 Full SIEM
+#### 🎯 SOC Projects
+-** [Windows Event Logs & Findind Evil]
+
 - **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/Faroukuthman/Azure-SOC)** *(Live Traffic)*
   
 
