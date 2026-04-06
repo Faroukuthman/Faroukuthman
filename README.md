@@ -15,7 +15,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 #### 🎯 SOC Projects
-- **[Windows Event Logs & Findind Evil](https://github.com/Faroukuthman/Azure-SOC)
+- **[Windows Event Logs & Finding Evil](https://github.com/Faroukuthman/Azure-SOC)
 
 - **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/Faroukuthman/Azure-SOC)** *(Live Traffic)*
   
