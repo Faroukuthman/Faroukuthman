@@ -23,15 +23,10 @@
 
 I’m a cybersecurity professional focused on SOC operations, threat detection, SIEM engineering, and cloud security.  
 I enjoy building hands-on labs that simulate real-world enterprise security environments using Microsoft Sentinel, Splunk, AWS, IQ Radar and Nessus.
-## 🚀 About Me
 
-- 🔍 SOC Analyst with experience triaging SIEM alerts and investigating cloud & endpoint threats
-- ☁️ Building cloud threat hunting labs with Microsoft Sentinel, AWS CloudTrail, and Defender for Endpoint
-- 🛡️ Interested in threat detection engineering, incident response, and detection tuning
-- 📊 Experienced with Splunk, Microsoft Sentinel, Wazuh, and Elastic Stack
-- 🧠 Passionate about learning enterprise security operations and modern blue-team workflows
 
 <h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
+
 ### 🟣 PURPLE TEAM 🟣
 #### 🎯 Full SIEM
 - **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/trevinoparker7/Cloud-Soc)** *(Live Traffic)*
@@ -39,7 +34,7 @@ I enjoy building hands-on labs that simulate real-world enterprise security envi
 - **[Setting up Splunk SIEM; Attacking and remediating it](https://github.com/trevinoparker7/Splunk-SIEM)** *(Live Traffic)*  
 
 ---
-
+<!--
 ### 🔵 BLUE TEAM 🔵
 #### ⚠️ Vulnerability Management Projects
 - **[Full Vulnerability Management Program Implementation](https://github.com/trevinoparker7/vulnerability-management-program)**  
@@ -65,7 +60,7 @@ I enjoy building hands-on labs that simulate real-world enterprise security envi
 - **[Compliance Framework Implementation (NIST)](https://github.com/trevinoparker7/NIST-Compliance/tree/main)**   
     
 ### GRC Analyst ###
-- **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/TrevinoParker7/GRC-Analyst-Project)**
+- **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/TrevinoParker7/GRC-Analyst-Project)** -->
 
 ###   IT Projects
 - **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/trevinoparker7/AD-Lab)**
@@ -127,7 +122,7 @@ I enjoy building hands-on labs that simulate real-world enterprise security envi
 
 
 <h2>📜 Certifications:</h2>
-- CompTIA Security+: Expected Oct. 2026 <br>- CompTIA Network+: Expected Nov. 2026
+- CompTIA Security+: Feb 2025
 
 ## 🤳 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farouk-uthman)
